@@ -1,3 +1,4 @@
+<!---
 # cmake_template
 
 [![ci](https://github.com/cpp-best-practices/cmake_template/actions/workflows/ci.yml/badge.svg)](https://github.com/cpp-best-practices/cmake_template/actions/workflows/ci.yml)
@@ -60,5 +61,5 @@ See [Catch2 tutorial](https://github.com/catchorg/Catch2/blob/master/docs/tutori
 ## Fuzz testing
 
 See [libFuzzer Tutorial](https://github.com/google/fuzzing/blob/master/tutorial/libFuzzerTutorial.md)
-
+-->
 
