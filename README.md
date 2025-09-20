@@ -1,3 +1,15 @@
+## ADARA - A Digital Assistant Research App
+
+# About
+The goal is to have a toolbox suitable for all humans.
+
+Tools:
+- Email Automation - Groups
+- Research Diary - Voice And Voiceless Interaction
+- Private Meetings - One to One Encrypted Meetings
+- Text Analysis - Working with Text: Transformation, Introspection, ... 
+- ... more to come
+
 <!---
 # cmake_template
 
